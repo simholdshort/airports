@@ -1,10 +1,9 @@
 # Airports for Flight simulator
 
-Work in progress:
 
 Vágar Airport, Faroe Islands
 
-ICAO: EKVG 
+ICAO: EKVG  (Work in progress)
 file: simholdshort-ekvg.zip
 
 
